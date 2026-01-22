@@ -1,6 +1,7 @@
 - Hi, I’m @PlayD4d
 - I’m interested in computers, programming, games and motorcycles.
 - If you found anything useful, you can tip me via GitHub Sponsors if you feel like it.
+- (https://github.com/sponsors/PlayD4d)
 - Have a great day!
 
 <!---
